@@ -117,26 +117,23 @@ Department-specific retention programs should focus on the most affected teams.
 
 ### Visualization
 
-![Department Attrition](images/department_attrition_rate.png)
+![Department-wise Attrition](images/Department_Wise_Attrition.png)
+
+![Department Attrition Rate](images/department_attrition_rate.png)
 
 ---
 
-## 3. Job Role vs Attrition Analysis
+## 3. Gender-wise Attrition Analysis
 
 ### Objective
-Determine whether certain job roles experience more attrition than others.
-
-### Key Findings
-- Sales Representatives show the highest attrition rate
-- Laboratory Technicians and Human Resources staff also show elevated turnover
-- Manager and Research Director roles show lower attrition
+Analyze attrition trends across gender groups.
 
 ### Business Insight
-Career progression, workload, and role-specific retention policies need review in high-risk job roles.
+Understanding gender-based attrition patterns helps organizations build inclusive workplace policies and improve retention strategies.
 
 ### Visualization
 
-![Job Role Attrition](images/job_role_attrition_rate.png)
+![Gender Attrition](images/Gender_VS_Attrition.png)
 
 ---
 
@@ -154,25 +151,23 @@ Excessive overtime may contribute to stress, burnout, and disengagement, which i
 
 ### Visualization
 
-![Overtime Attrition](images/overtime_attrition_rate.png)
+![Overtime Attrition](images/OvertimeVSAttrition.png)
+
+![Overtime Attrition Rate](images/overtime_attrition_rate.png)
 
 ---
 
-## 5. Tenure Analysis
+## 5. Monthly Income Distribution
 
 ### Objective
-Examine how years at the company relate to attrition.
-
-### Key Findings
-- Employees in the first 2 years show the highest attrition rate
-- Attrition decreases after employees remain longer in the company
+Understand how employee compensation is distributed across the workforce.
 
 ### Business Insight
-Early employee experience and onboarding quality are critical for retention.
+Income distribution helps reveal whether pay gaps or lower salary bands are related to attrition risk.
 
 ### Visualization
 
-![Tenure Attrition](images/tenure_attrition_rate.png)
+![Monthly Income Distribution](images/Monthly_Income_Distribution.png)
 
 ---
 
@@ -194,7 +189,44 @@ Reviewing compensation structures and pay equity can support retention strategie
 
 ---
 
-## 7. Satisfaction and Work-Life Balance Analysis
+## 7. Job Role vs Attrition Analysis
+
+### Objective
+Determine whether certain job roles experience more attrition than others.
+
+### Key Findings
+- Sales Representatives show the highest attrition rate
+- Laboratory Technicians and Human Resources staff also show elevated turnover
+- Manager and Research Director roles show lower attrition
+
+### Business Insight
+Career progression, workload, and role-specific retention policies need review in high-risk job roles.
+
+### Visualization
+
+![Job Role Attrition](images/job_role_attrition_rate.png)
+
+---
+
+## 8. Tenure Analysis
+
+### Objective
+Examine how years at the company relate to attrition.
+
+### Key Findings
+- Employees in the first 2 years show the highest attrition rate
+- Attrition decreases after employees remain longer in the company
+
+### Business Insight
+Early employee experience and onboarding quality are critical for retention.
+
+### Visualization
+
+![Tenure Attrition](images/tenure_attrition_rate.png)
+
+---
+
+## 9. Satisfaction and Work-Life Balance Analysis
 
 ### Objective
 Compare job satisfaction, environment satisfaction, and work-life balance for staying vs leaving employees.
